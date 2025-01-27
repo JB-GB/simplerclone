@@ -2,7 +2,8 @@
 A simple way to use rclone without remembering even the name
 ---
 
-> [!NOTE] Currently working on:
+> [!IMPORTANT]
+> Currently working on:
 > Staging changes to readme...
 > Thinking on some way to improve features...
 > Preparing dinner...
